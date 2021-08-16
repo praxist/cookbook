@@ -1,0 +1,41 @@
+Lazy Chart For Converting – DME – LME -GRAIN
+
+A lot of times, you need a reference chart in order to help convert from DME, LME, Grain and back.   This makes super fast work of converting LME and DME as well as grains.   Honestly this is one of the better cheat sheets that I’ve seen.  Really does make fast work when you’re in a pinch.
+Grain           Liquid           Dry
+1           0.75              0.6
+1.5           1.125           0.9
+2           1.5               1.2
+2.5           1.875           1.5
+3           2.25              1.8
+3.5           2.625           2.1
+4           3                 2.4
+4.5           3.375           2.7
+5           3.75                3
+5.5           4.125           3.3
+6           4.5               3.6
+6.5           4.875           3.9
+7           5.25              4.2
+7.5           5.625           4.5
+8           6                 4.8
+8.5           6.375           5.1
+9           6.75              5.4
+9.5           7.125           5.7
+10           7.5              6
+10.5           7.875          6.3
+11           8.25             6.6
+11.5           8.625          6.9
+12           9                7.2
+12.5           9.375          7.5
+13           9.75             7.8
+13.5           10.125         8.1
+14           10.5             8.4
+14.5           10.875         8.7
+15           11.25            9
+15.5           11.625         9.3
+16           12               9.6
+16.5           12.375         9.9
+17           12.75            10.2
+17.5           13.125         10.5
+18           13.5             10.8
+18.5           13.875         11.1
+19           14.25            11.4
