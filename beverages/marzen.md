@@ -71,10 +71,13 @@ target FG: 1.011
 target ABV: 4.6%
 
 8/10/21: in the keezer for cold conditioning
-8/13/21: FG 1.032?? not sure if that's right.
+8/13/21: FG 1.032?? not sure if that's right. heavy sulfur taste, undrinkable
+8/20/21: FG 1.02-3X? sulfur disappated. however "apple" aroma detected - acetaldehyde? incomplete fermentation? maybe needs more time before cold crash next time. and/or bigger initial yeast pitch. possibly will clean up with time. Also not too "crisp" and a little heavy on the tongue - maybe more sugars left to ferment. Also could be byproduct of unhealthy/stressed yeast - use less pressure next time (<=10psi vs 15+)
+9/30/21: used us-05 for 3-4 days to finish. ~1.015
 
 
 # Kegging
 x vols // psi: 2-2.5vols
 burst carb:
 stable carb:
+
