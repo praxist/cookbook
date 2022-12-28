@@ -16,16 +16,20 @@ build water profile: https://docs.google.com/spreadsheets/d/11kJseA0BogY3ZlS10wd
 # Mashing
 - 154F 60 min
 - 90 minute boil required - adjust water
+- 12/27/21 3.5gal
 
 - 4.0 gallons water
 - 3oz crystal 40L
 - 3oz chocolate malt 420L
 - 1.75oz black roasted barley 500L
 - 1.75oz carafa special II 430L
-- 2.3lb pilsener malt -> 2.5
+- 2# 5oz pilsener malt -> 2.5
 - 3.05lb munich malt ->  3.25
 
 sparge 0.5 gallon
+12/27/21: sparge 0.75 gallon
+
+12/27: use written amounts of malt
 
 
 # Boil / Mash Out
@@ -39,14 +43,22 @@ sparge 0.5 gallon
 12/11/21: first immersion chill, 60F water
 ->80F 15 min
 
+12/27/21: pitch @ 58F
+
 # Primary Fermentation
 target OG: 1.051
 target FG: 1.013
 target ABV: 5%
 
 12/11/21: OG 1.058-60
+12/21/21: FG 1.014 - 6% ABV
+
+12/27/21: OG 1.062
+1/3/22: FG ~1.016
 
 4 weeks @ 50F
+
+4/18/22: sample - much better. lot less astringent/bitter
 
 # Kegging
 2-2.5 vols // psi

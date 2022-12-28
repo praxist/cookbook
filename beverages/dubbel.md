@@ -25,18 +25,25 @@ build water profile: https://docs.google.com/spreadsheets/d/11kJseA0BogY3ZlS10wd
 - 4.5lb belgian pilsner -> 5
 - 1.25lb belgian pale -> 1.5
 - 0.75lb D180 candi syrup
-- 0.38lb brun fonce cassonade -> 7oz
+- 0.38lb /6.08oz brun fonce cassonade -> 7oz
 
 11/7/21: 154 -> 149, simmer
 11/7/21: stove med-high to 162, 8min, step
 11/7/21: stove med-high to 170, 4min, mashout
 
+1/1/22: 3.5gal, 1gal sparge
+1/1/22: 4.5 pils, 1.5 pale
+
+
+
 # Boil / Mash Out
 1. t-90: start, brun fonce / candi syrup
 2. t-58: 0.5oz brewer's gold / northern brewer
-3. t-28: 0.38oz hallertau mittel
-4. t-13: 0.25oz styrian goldings
+3. t-30: 0.38oz hallertau mittel
+4. t-15: 0.25oz styrian goldings
 5. t-10: clarifier
+
+1/1/22:  0.5 NB 7.3%, 0.5 HM 4%, 0.25 SG 4.5%
 
 # Primary Fermentation
 target OG: 1.072
@@ -54,6 +61,16 @@ target ABV: ??
 11/15/21: FG 1.012 - 8.4% ABV, cellar rest
 11/22/21: cold crash. ramp from 10psi to 15
 11/28/21: FG 1.006??? maybe 1.008
+
+1/2/22: 0.5gal too much liquid. added ~1oz brun fonce, 2.4oz d180
+1/2/22: possible contamination. overpitch
+1/2/22: 60-64F
+1/3/22: 65-68F
+1/4/22: 69-70F
+1/16/22: FG 1.010
+2/27/22: 2.75 volumes @ 76F -> 75g dextrose in boiling water 2 weeks
+2/27/22: bottling turned out to be 2.15 gallons. -> 3.05 volumes yike
+
 
 # Kegging
 2.5-3 vols // psi

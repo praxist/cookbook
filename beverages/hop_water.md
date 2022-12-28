@@ -104,3 +104,29 @@ Since I was using distilled water, I needed to build up my water profile. I foll
 7g/L of (bagged) hops in a hop stand for 20 mins at around 70 Celsius
 I recently bought a 2.5 gallon keg for this and it has turned out great. I boil about A gallon of water, then let it cool to 170f and add 5g of hops per gallon (so I still add the final I want at the end).
 5g per gallon? Wow i do 2.5 gal batches and do 5g total.
+
+
+lagunitas-
+?? whirlpool hop
+2oz / 2.5gal dry hop
+prime keg DME
+us-05
+cascade/citra/cent
+
+
+
+1gal
+citra/cent
+dme to 0.5% abv
+us-05
+2oz dme
+150F
+
+1.5g citra
+0.5g cent
+
+6/3/22
+0.6/1.6, 150F @ 10min
+chill
+
+try dextrose next time for clear?

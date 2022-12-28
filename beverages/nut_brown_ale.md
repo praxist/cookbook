@@ -40,16 +40,26 @@ build water profile: https://docs.google.com/spreadsheets/d/11kJseA0BogY3ZlS10wd
 165->154F
 
 ~ 4 gallons water - 0.5" below first rivet
-4.5lb 2 row pale
+4.5lb 2 row pale -> maris otter
 0.5lb crystal 60L
 0.5lb oats
-0.375lb pale chocolate
+0.375lb pale chocolate 350SRM -> 2oz (prev value mistake)
 0.25lb victory
+
+12/19/21:
+sub base with:
+4# MO
+3oz vienna
+8oz 2 row pale
++.1# dextrin
++2oz victory
 
 # Boil / Mash Out
 t-60: 0.5oz fuggles
 t-15: 0.5oz east kent goldings
 t-10: clarifier
+
+12/19/21: 2x batch sparge totalling 1gal
 
 # Primary Fermentation
 ex: 7 days ferment + dry hop
@@ -60,6 +70,12 @@ target ABV: ??
 10/16/21: pitch @ 62F, whole pack.
 10/16/21: OG 1.042 (yikes, up the 2 row next time)
 10/22/21: FG
+
+12/19/21: OG 1.062
+12/19/21: pitch nottingham @67F (high), fermenter outside to cool
+12/19/21: +3hrs - 56F
+12/20/21: at 57-58F
+2/22/22: definitely tastes better warmer with less carbonation
 
 # Kegging
 x vols // psi

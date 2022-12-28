@@ -74,6 +74,36 @@ pumpkin pie spice
 0.1g salt
 
 
+1egg
+20g sugar
+20g pumpkin
+2 oz milk
+1 oz cream
+1 oz dark rum
+0.75 oz brandy
+
+
+
+---
+NA version
+1 egg
+3 oz milk
+1 oz cream -> 0.75oz
+1/2 oz orgeat 8g
+1+ tsp molasses 4g
+d180 5g
+drop of almond extract
+drop of vanilla extract 2g
+
+
+clove 0.5g
+cinnamon 0.5g
+nutmeg 1g -> 0.5g
+
+10g sugar
+
+
+
 
 x8
 9 eggs
@@ -83,7 +113,3 @@ x8
 160g pumpkin
 592ml milk
 
-
-
-1480
-24ml
