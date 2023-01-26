@@ -1,5 +1,5 @@
 # Paloma Sparkler
-## New Version
+## New Version (is it really? check 4/21 below)
 - 10 grapefruits ~8lb
   - ~250g peels
   - ~2L juice
@@ -7,6 +7,8 @@
 - 1.3g salt
 - sparkling water to 1.5gal
 - 3.5 cups tequila -> ~5% abv
+
+= +10g lime peel
 
 1. vac seal 250g peels with ~320g sugar to make oleo. Let oils leach for ~6hrs
 2. juice grapefruits to end up with ~2L juice

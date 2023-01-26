@@ -123,7 +123,10 @@ NOTE: no whirlfloc!
 - 0.5oz dry sweet orange peel
 - OG 1.070 @ 2.6gal -> 1.063 @ 2.9gal
 - first 24 hrs - 65F
-- free rise next 24 hours (seems to have finished out ??)
+- free rise next 24 hours (seems to have finished out ??), maxed at 72F
+- hit 1.020 12/17? stalled out
+- 12/23 restarted somehow
+- 12/25 1.012
 
 
 # Serve
