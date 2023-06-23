@@ -1,3 +1,5 @@
+# Beef Pho
+
 - 3.5lb beef bone (roasted 425 30min until brown)
 - 1 massive chunk of ginger, cross section cut
 - 4 onions, split, frills/some peel removed
@@ -40,6 +42,7 @@
 4.5# beef bone
 1# flank
 3# chuck
+1# tendon
 
 7 onion
 tons of ginger
@@ -50,3 +53,29 @@ tons of ginger
 T+2hrs take out chuck, cool, salt
 T+4hrs
 
+# weissman
+Broth:
+    5-6  pounds (2.2-2.7 kilo) beef bone (knuckle and marrow)
+    1 pound (450g) chuck roast
+    5.5qt (5.25 liter) water
+    2 large yellow onions
+    1 large whole piece of ginger
+    5 cloves, toasted
+    5-6 star anise, toasted
+    3 black cardamom pods *optional*
+    1/3 cup (35g  ) coriander seeds, toasted
+    1 cinnamon stick, toasted
+    1/4 cup fish sauce 60ml
+    1.5 tablespoons (22g) brown sugar
+    Stems from 1 bunch of cilantro
+    More fish sauce and brown sugar (to taste)
+
+For The Bowls:
+    Cooked Rice Noodles
+    Thinly sliced flank steak
+    Cooked chuck roast from broth
+    Thinly sliced Thai chilies
+    Thinly sliced sweet white onion
+    Thai basil
+    Cilantro
+    Mint

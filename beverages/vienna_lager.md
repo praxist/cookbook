@@ -1,6 +1,52 @@
 12/21/22
 https://web.brewfather.app/share/WcSaHRAiAtFo3E8RS74LAOEbZX9Uoo
 
+
+Vienna Lager - 2.75gal, BIAB + dunk sparge, pressure ferment, grain to glass 1 week
+-----
+Based off MeanBrew's Vienna Lager: https://web.brewfather.app/share/WcSaHRAiAtFo3E8RS74LAOEbZX9Uoo
+
+# Vitals
+- 25.5 IBU
+- OG: 1.052
+- FG: 1.011
+
+# Water
+- 2.75gal mash water
+- 0.75gal dunk sparge water
+- Water source: SF Tap / Hetch Hetchy
+- 0.5g calcium carbonate
+- 1.2g epsom salt
+
+# Grain
+- 3# 10oz vienna malt
+- 4oz munich 1
+- 4.5oz victory malt
+- 2oz honey malt 22L
+- 0.75oz carafa special 2 525L
+- 8oz pilsen malt
+
+# Mash
+- 157F -> maintain 150F 90min
+- Preboil Gravity 1.022 @ 150F / 3.8gal
+
+# Boil
+- 1/4 campden tablet
+- 60min - 1.2oz hallertau mittelfruh 3.6% / 23 IBU
+- 15min - whirlfloc
+- 10min - 0.35oz hallertau mittelfruh 3.6% / 2.5 IBU
+
+# Ferment
+- Siphon to 5gal keg
+- Pitch 1 packet 34/70 @ 68F
+- Pressurize to 15PSI w/ spunding valve
+- Ramp to 72F and hold after 24 hours
+- Diacetyl rest for 36 hours
+- Cold crash to 34F
+- Gelatin fining: 2.5g gelatin in 5oz water @ 160F
+- Force carb and serve at 2.4vols
+
+
 ---
 2.75gal
 
@@ -24,12 +70,20 @@ https://web.brewfather.app/share/WcSaHRAiAtFo3E8RS74LAOEbZX9Uoo
 preboil
 12/21/22 - preboil 1.048 @ 3.25gal -> add 2.25oz sugar
 
+3/27?
+1.024 147F 3.8gal -> 1.039
+FG 1.010 in ~2 days
+
+4/2/23
+1.022 150F 3.8gal
+hops 1.15->1.05, 0.35 (part hallertau 4.5%)
+1.048 @ 69F
+
 # Boil
 - campden
 - 1.2oz hallertau mittel 3.6% / 60min 23 IBU -> 1.15oz
 - whirfloc - 15min
 - 0.35oz hallertau mittel 3.6% / 10min 2.5 IBU
-
 
 # Ferment Target
 - Target OG 1.052
@@ -64,4 +118,7 @@ preboil
 - 2.4vols
 
 
+
+4/14
+5g gelatin, 10oz distilled water
 

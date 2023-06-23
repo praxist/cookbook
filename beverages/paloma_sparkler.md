@@ -21,11 +21,26 @@
 
 Notes: acidity may be too high, reduce grapefruit juice to compensate. May also try adding lime/peel next time with less grapefruit juice.
 
-4/21
-5lb bag - 7 grapefruits
-265g peel
-290g sugar
-Notes: better than ^
+4/21/22 - BEST 1.5gal mix
+-----
+5lb bag - 7 grapefruits -> 1050mL juice
+265g peel //// 88
+290g sugar /// 96.6
+1.3g salt
+3.5cup tequila
+IF trying to make 5% ABV preserved grapefruit syrup, add 150mL tequila instead
+
+4/15/23
+-------------
+5gal VM wedding
+4x 5gal buckets of grapefruit
+883g peel/967g sugar
+11.66cup tequila
+4.33g salt
+~24 average sized grapefruits worth of juice
+3.5L strained juice
+
+
 
 9/9
 3 grapefruits, juiced
@@ -51,3 +66,35 @@ Remove pith from grapefruit and slice + muddle to extract juice
 Combine tequila, salt, grapefruit juice, lime juice, and half of sugared peels.
 Top with seltzer until target gallons reached. Add more peels to taste.
 Strain and keg.
+
+
+
+
+
+syrup + 15% abv
+
+11 cups syrup
+2 6 oz
+
+
+
+
+2100mL
+how much 40%abv tequila to reach a solution of 5%
+
+
+x = total tequila
+y = total volume
+z = total alcohol
+
+2100+x = y
+y * 0.05 = 0.4x
+
+
+x-8x=-2100
+8x = y
+
+
+0.3L
+
+
