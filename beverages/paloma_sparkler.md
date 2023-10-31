@@ -25,7 +25,7 @@ Notes: acidity may be too high, reduce grapefruit juice to compensate. May also 
 -----
 5lb bag - 7 grapefruits -> 1050mL juice
 265g peel //// 88
-290g sugar /// 96.6
+290g sugar /// 96.6 --> 1.1:1 sugar:peel
 1.3g salt
 3.5cup tequila
 IF trying to make 5% ABV preserved grapefruit syrup, add 150mL tequila instead

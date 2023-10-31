@@ -1,3 +1,21 @@
+# Pho Ga
+### 20230828
+- 3 chickens
+- 4 onions
+- 1.84lb beef bone
+
+2.5gal
+meat salted overnight
+meat cooked to temp 175
+spices last after cooking meat
+2.5tsp fennel
+9g (10 pieces) star anise
+12 cloves
+17g / 5 black cardamom whole, then shelled
+50g coriander
+3 cinnamon
+
+
 # Beef Pho
 
 - 3.5lb beef bone (roasted 425 30min until brown)
