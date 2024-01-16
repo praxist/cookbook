@@ -79,6 +79,13 @@ FG 1.010 in ~2 days
 hops 1.15->1.05, 0.35 (part hallertau 4.5%)
 1.048 @ 69F
 
+12/10/23
+1.028 145F 3gal ?
+1.05, 0.35 hops 4.5%
+1.053 @ 67F, 2.5 gal ? wort tastes good
+2 day ferment 69F / 2 day D-rest 75F / 3 day cold crash 33F
+2.5g gelatin / 150g distilled water, 30min dissolve
+
 # Boil
 - campden
 - 1.2oz hallertau mittel 3.6% / 60min 23 IBU -> 1.15oz
