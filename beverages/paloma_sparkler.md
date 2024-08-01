@@ -1,4 +1,8 @@
 # Paloma Sparkler
+## Price
+- 8 grapefruits for $4 @ mi tierra 7/24
+
+
 ## New Version (is it really? check 4/21 below)
 - 10 grapefruits ~8lb
   - ~250g peels
@@ -39,6 +43,14 @@ IF trying to make 5% ABV preserved grapefruit syrup, add 150mL tequila instead
 4.33g salt
 ~24 average sized grapefruits worth of juice
 3.5L strained juice
+
+7/31/24
+-------
+5gal NA CE wedding
+4x5lb bags grapefruit ~ 32gf (3.99 @ mi tierra)
+-> 772g peel / 967g sugar
+4.33g salt
+
 
 
 
