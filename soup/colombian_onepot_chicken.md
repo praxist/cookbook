@@ -1,0 +1,17 @@
+- 8 chicken thigh, bone+skin, salted (1pkg safeway)
+- 3 chile arbol
+- 1 green bell pepper
+- 2 red potato
+- 2 gold potato
+- 2 russet potato
+- 2 carrot
+- 3 leek
+- 1 tbsp paprika
+- 8 whole garlic cloves
+- 3 bay leaf
+- 4 vine tomato
+- 3 roma tomato
+-
+- bunch of cilantro
+- sazon
+- lime juice

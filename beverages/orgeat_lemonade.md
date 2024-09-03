@@ -46,6 +46,39 @@ maybe 0.8oz lemon juice
 
 
 https://www.kevinkos.com/post/clarified-orgeat-syrup
+Clear Orgeat
+
+● 500mL · 16.66oz Almond Milk
+
+● 22.5mL · 0.25oz 6% Citric Acid Solution
+
+● 100 g of Sugar (per every 100 g of Clear Almond Milk)
+
+● Rose Water (0.05% of the weight of your Clear Orgeat)
+
+● Almond Flavor Drops (0.05% of the weight of your Clear Orgeat)
+
+# 8/23/24 w/ citric acid, no oleo
+- 28oz (828ml) malk
+- 1.35g citric acid
+- 382g demerara
+- 764g white sugar
+- 8g ofw
+- 6g almond extract
+- 4g rose water
+
+- heat malk to 165F
+- add citric acid
+- wait 30 minutes
+- strain a few times
+- reheat
+- add sugar, dissolve
+- cool
+- add flavorings
+- transfer
+
+> yield in ml??
+
 # Single recipe
 - 28oz (828ml) malk almond milk
 - 42ml lemon juice (1 lemon)

@@ -50,6 +50,11 @@ IF trying to make 5% ABV preserved grapefruit syrup, add 150mL tequila instead
 4x5lb bags grapefruit ~ 32gf (3.99 @ mi tierra)
 -> 772g peel / 967g sugar
 4.33g salt
+yielded 3.55L strained juice
+taste was very flat, needed to add 10 limes of juice, 6g citric acid, 2g salt
+need more grapefruit next time if not super fresh
+
+
 
 
 

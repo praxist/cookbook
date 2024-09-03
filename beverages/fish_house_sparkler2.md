@@ -22,3 +22,10 @@
 
 1 lemon  ~40ml
 
+
+750ml smith cross
+1.425 appleton
+75ml angostura
+
+
++900ml juice
